@@ -1,0 +1,22 @@
+.gitignore
+Changes
+eg/controller.pl
+inc/Module/Install.pm
+inc/Module/Install/AuthorTests.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Include.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Repository.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/WebService/Polycom/RemoteController.pm
+lib/WebService/Polycom/RemoteController/Result.pm
+lib/WebService/Polycom/RemoteController/Result/Command.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/compile.t
